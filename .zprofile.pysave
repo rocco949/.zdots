@@ -1,0 +1,21 @@
+
+
+
+
+##
+# Your previous /Users/joey/.zprofile file was backed up as /Users/joey/.zprofile.macports-saved_2022-10-07_at_19:23:19
+##
+
+# MacPorts Installer addition on 2022-10-07_at_19:23:19: adding an appropriate PATH variable for use with MacPorts.
+export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
+# Finished adapting your PATH environment variable for use with MacPorts.
+
+export PATH="/Applications/Sublime Text.app/Contents/SharedSupport/bin:$PATH"
+export PATH="/Applications/Sublime Text.app/Contents/SharedSupport/bin:$PATH"
+export PATH="/Applications/Sublime Text.app/Contents/SharedSupport/bin:$PATH"
+
+
+
+# Added by Toolbox App
+export PATH="$PATH:/usr/local/bin"
+
