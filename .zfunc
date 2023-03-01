@@ -1,0 +1,10 @@
+edit() {
+	$EDITOR ~/.zshrc
+	$EDITOR $ZSH/.myzshrc
+	$EDITOR $ZSH/.zshenv
+	$EDITOR $ZSH/.zali
+	$EDITOR $ZSH/.zfunc
+	$EDITOR $ZSH/.zplug
+	$EDITOR $PLUGS
+
+}

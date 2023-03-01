@@ -6,11 +6,14 @@
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh
-alias edit="subl ~/.zshrc"
+
 alias reload="exec zsh"
 alias java_home="/usr/libexec/java_home"
 alias love="/Users/joey/Applications/love.app/Contents/MacOS/love"
-alias editrc="subl .zdots/.zshrc"
-alias editnv="subl .zdots/.zshenv" 
+alias editc="$EDITOR ~/.zshrc"
+alias editrc="$EDITOR $ZSH/.myzshrc"
+alias editnv="$EDITOR $ZSH/.zshenv" 
+alias editli="$EDITOR $ZSH/zali"
+alias editnc="$EDITOR $ZSH/zfunc"
 
 
