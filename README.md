@@ -1,14 +1,13 @@
 # .zdots
-my zsh dotfiles
 
-TO INSTALL
-Run in the terminal -- cd ~ && git clone https://github.com/rocco949/.zdots.git && mv ~/.zshrc ~/.zshrcbackup && touch ~/.zshrc && open ~/.zshrc --
-When the .zshrc opens up, paste in -- source ~/.zdots/.zsource --
+From: Joey of 3.1.23
+To: Joey of the Future
 
-TO DELETE
-Run in the terminal -- rm -R ~/.zdots && rm ~/.zshrc && mv ~/.zshrcbackup ~/.zshrc --
+SUubject: my (and your) zsh dotfiles
 
-to see the aliases, run -- editli --
-to see all the dotfiles run -- edit --
+Run: 
+cd ~ && git clone https://github.com/rocco949/.zdots.git && mv ~/.zshrc ~/.zshrcbackup && touch ~/.zshrc && touch ~/.zplugins && cd ~/.zplugins && git clone https://github.com/zsh-users/zsh-syntax-highlighting.git && cd ~ && open ~/.zshrc
 
-That's it.
+paste ~/.zdots/.zsource into the following window, press cmd s and exit.
+
+Then, exec zsh and you're done, Joey.
