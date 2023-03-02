@@ -13,7 +13,6 @@ alias love="/Users/joey/Applications/love.app/Contents/MacOS/love"
 alias editc="$EDITOR ~/.zshrc"
 alias editrc="$EDITOR $ZSH/.myzshrc"
 alias editnv="$EDITOR $ZSH/.zshenv" 
-alias editli="$EDITOR $ZSH/zali"
-alias editnc="$EDITOR $ZSH/zfunc"
-
-
+alias editli="$EDITOR $ZSH/.zali"
+alias editnc="$EDITOR $ZSH/.zfunc"
+alias play="love ."
