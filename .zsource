@@ -1,0 +1,5 @@
+source ~/.zdots/.zshenv
+source ~/.zdots/.myzshrc
+source ~/.zdots/.zali
+source ~/.zdots/.zfunc
+source ~/.zdots/.zplug

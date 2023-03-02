@@ -4,6 +4,7 @@ export PS1="%1~ :-| $ "
 export ZSH=$HOME/.zdots
 export PLUGS=$ZSH/plugins
 export EDITOR='subl'
+export PASSWORD='eatmyrice929'
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,

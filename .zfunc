@@ -5,6 +5,9 @@ edit() {
 	$EDITOR $ZSH/.zali
 	$EDITOR $ZSH/.zfunc
 	$EDITOR $ZSH/.zplug
+	$EDITOR $ZSH/.zsource
+
 	$EDITOR $PLUGS
 
 }
+
