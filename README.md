@@ -1,10 +1,13 @@
 # .zdots
 my zsh dotfiles
 
-Put the regular .zshrc (not .myzshrc) in the home directory. If needed, backup and delete the pre-used .zshrc. Yoo might also need to press "cmd" + "shift" + "." to see the files. 
+Run in the terminal -- git clone https://github.com/rocco949/.zdots.git ~ && mv ~/.zshrc ~/.zshrcbackup && touch ~/.zshrc && open ~/.zshrc --
 
-After this run:
-  
+When the .zshrc opens up, paste in -- source ~/.zdots/.zsource --
+
+If you want to delete, run -- rm -R ~/.zdots && rm ~/.zshrc && mv ~/.zshrcbackup ~/.zshrc --
+
+to see the aliases, run -- editli --
+to see all the dotfiles run -- edit --
 
 That's it.
-q
