@@ -2,7 +2,7 @@
 export skip_global_compinit=1
 export PS1="%1~ :-| $ "
 export ZSH=$HOME/.zdots
-export PLUGS=$ZSH/plugins
+export PLUGS=$HOME/.zplugins
 export EDITOR='subl'
 export PASSWORD='eatmyrice929'
 
